@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jbarmagen/Dev/ROS/yarp_ros_ws/devel_isolated/yarp_ros_interfaces/setup.sh

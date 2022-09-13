@@ -1,0 +1,8 @@
+prefix=/home/jbarmagen/Dev/ROS/yarp_ros_ws/devel_isolated/yarp
+
+Name: yarp
+Description: Description of yarp
+Version: 0.0.0
+Cflags: -I/home/jbarmagen/Dev/ROS/yarp_ros_ws/devel_isolated/yarp/include
+Libs: -L${prefix}/lib 
+Requires: 

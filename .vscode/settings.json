@@ -1,0 +1,31 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/jbarmagen/Dev/ROS2/ament_lint/install/ament_xmllint/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/ament_lint/install/ament_uncrustify/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/ament_lint/install/ament_pyflakes/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/ament_lint/install/ament_pycodestyle/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/ament_lint/install/ament_pep257/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/ament_lint/install/ament_pclint/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/ament_lint/install/ament_mypy/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/ament_lint/install/ament_lint_cmake/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/ament_lint/install/ament_flake8/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/ament_lint/install/ament_copyright/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/ament_lint/install/ament_lint/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/ament_lint/install/ament_cpplint/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/ament_lint/install/ament_cppcheck/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/ament_lint/install/ament_clang_tidy/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/ament_lint/install/ament_clang_format/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/vision_opencv/install/opencv_tests/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/vision_opencv/install/image_geometry/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/vision_opencv/install/cv_bridge/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/common_interfaces/install/trajectory_msgs/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/common_interfaces/install/std_srvs/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/common_interfaces/install/shape_msgs/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/common_interfaces/install/nav_msgs/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/common_interfaces/install/diagnostic_msgs/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/common_interfaces/install/geometry_msgs/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/common_interfaces/install/actionlib_msgs/lib/python3.8/site-packages",
+        "/home/jbarmagen/Dev/ROS2/common_interfaces/install/std_msgs/lib/python3.8/site-packages",
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ]
+}

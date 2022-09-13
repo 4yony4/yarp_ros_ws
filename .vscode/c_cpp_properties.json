@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/home/jbarmagen/Dev/ROS2/image_common/install/image_transport/include/**",
+                "/home/jbarmagen/Dev/ROS2/image_common/install/camera_info_manager/include/**",
+                "/home/jbarmagen/Dev/ROS2/image_common/install/camera_calibration_parsers/include/**",
+                "/home/jbarmagen/Dev/ROS2/vision_opencv/install/image_geometry/include/**",
+                "/home/jbarmagen/Dev/ROS2/vision_opencv/install/cv_bridge/include/**",
+                "/home/jbarmagen/Dev/ROS2/common_interfaces/install/trajectory_msgs/include/**",
+                "/home/jbarmagen/Dev/ROS2/common_interfaces/install/std_srvs/include/**",
+                "/home/jbarmagen/Dev/ROS2/common_interfaces/install/shape_msgs/include/**",
+                "/home/jbarmagen/Dev/ROS2/common_interfaces/install/nav_msgs/include/**",
+                "/home/jbarmagen/Dev/ROS2/common_interfaces/install/diagnostic_msgs/include/**",
+                "/home/jbarmagen/Dev/ROS2/common_interfaces/install/geometry_msgs/include/**",
+                "/home/jbarmagen/Dev/ROS2/common_interfaces/install/actionlib_msgs/include/**",
+                "/home/jbarmagen/Dev/ROS2/common_interfaces/install/std_msgs/include/**",
+                "/opt/ros/galactic/include/**",
+                "/home/jbarmagen/Dev/ROS/yarp_ros_ws/src/yarp_ros_interfaces/include/**",
+                "/home/jbarmagen/Dev/ROS/yarp_ros_ws/src/yarp_ros_proxy/include/**",
+                "/usr/include/**",
+                "/home/jbarmagen/Dev/ROS/yarp_ros_ws/devel/include/",
+                "/opt/ros/noetic/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}
