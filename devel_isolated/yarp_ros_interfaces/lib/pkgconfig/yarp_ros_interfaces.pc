@@ -1,8 +1,0 @@
-prefix=/home/jbarmagen/Dev/ROS/yarp_ros_ws/devel_isolated/yarp_ros_interfaces
-
-Name: yarp_ros_interfaces
-Description: Description of yarp_ros_interfaces
-Version: 0.0.0
-Cflags: -I/home/jbarmagen/Dev/ROS/yarp_ros_ws/devel_isolated/yarp_ros_interfaces/include
-Libs: -L${prefix}/lib 
-Requires: 

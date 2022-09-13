@@ -1,8 +1,0 @@
-prefix=/home/jbarmagen/Dev/ROS/yarp_ros_ws/devel_isolated/yarp_ros_proxy
-
-Name: yarp_ros_proxy
-Description: Description of yarp_ros_proxy
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
